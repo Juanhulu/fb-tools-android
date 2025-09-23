@@ -6,7 +6,7 @@
     "app": {
         "managecookie": {
             "apk_file": "managecookie.apk",
-            "version": "1.0.1"
+            "version": "1.0.0"
         }
     }
 }
