@@ -1,12 +1,12 @@
 {
     "meta": {
-        "author": "Juan",
+        "author": "Juan Hulu",
         "facebook": "https://www.facebook.com/juanhulu.xyz"
     },
     "app": {
         "managecookie": {
             "apk_file": "managecookie.apk",
-            "version": "1.0.0"
+            "version": "1.0.1"
         }
     }
 }
